@@ -6,7 +6,7 @@ Although, this file has a function witch is possible to call it from "manage_dat
 3. manjage_data.php -> This file is use it to Create, Insert, Select and Delete datas from database. This file use a loop "switch" to do all the requirements. 
 
 4. manage_data.js -> This file is use it to send and receive the requirements with JQuery to the "database_and_tables.php" file. It has differents functions, filter, insert, and remove. 
-At the beginning we apply a function JQuery-> $(document).ready(function () {} ) to get the initial data with ajax- > $.ajax({ }) Selecting initial data.
+At the beginning we apply a function JQuery-> $(document).ready(function)} <- and I use Ajax. Selecting initial data.
 Other functions: 
 Filter()-> filter the data with Jquery.
 Remove()-> remove data sending to php
