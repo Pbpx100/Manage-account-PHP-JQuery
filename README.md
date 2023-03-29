@@ -15,12 +15,12 @@ Insert()-> Insert data sending to php
 5. index.html -> I present the data in this file and it has 3 buttons to trigger the functions filter(), remove() and Insert
 
 
-#Start the application
+# Start the application
 ![Beginning of the app](https://user-images.githubusercontent.com/38941153/228503483-ca2a78ae-d011-441e-a4ab-057398fae4e1.png)
-#Inserting data
+# Inserting data
 ![inserting data](https://user-images.githubusercontent.com/38941153/228503616-9a30ac0a-0c8b-4287-92d9-17d40679e386.png)
-#Filtering by id -> it has two filters
+# Filtering by id -> it has two filters
 ![filtering by id 1](https://user-images.githubusercontent.com/38941153/228503999-07011ad8-6a4e-4e10-8f60-1819d4322228.png)
-#Removing data
+# Removing data
 ![Removing data](https://user-images.githubusercontent.com/38941153/228504155-40bd28fb-e2a5-41ef-a4b2-61b02454256e.png)
 
