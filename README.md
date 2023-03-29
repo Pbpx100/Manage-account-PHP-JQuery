@@ -9,10 +9,10 @@ Although, this file has a function witch is possible to call it from "manage_dat
 At the beginning we apply a function JQuery-> $(document).ready(function () {} ) to get the initial data with ajax- > $.ajax({ }) Selecting initial data.
 Other functions: 
 Filter()-> filter the data with Jquery.
-Remove()-> remove data s3ending to php
+Remove()-> remove data sending to php
 Insert()-> Insert data sending to php 
 
-5. index.html -> I present the data in this file and it has 3 buttons to trigger the functions filter(), remove() and Insert
+5. index.html -> I present the data in this file and it has 3 buttons to trigger the functions filter(), remove() and insert()
 
 
 # Start the application
